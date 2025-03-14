@@ -1,5 +1,8 @@
-
 ![](https://hit.yhype.me/github/profile?user_id=77713888)
+
+<div align="center">
+  <img src="workflow/Sonal Github Banner.png" alt="Banner" />
+</div>
 
 # Hi there 👋, I'm Sonal Dhole  
 ### Game Developer | Gaming Enthusiast | Unity Expert
